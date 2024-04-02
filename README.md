@@ -5,7 +5,7 @@
 
 
 #### What?
-Wikipedia contains valubale metrics for countries around the world. I plan to capture this data and test relationships between these emtrics in search of interesting insights.
+Wikipedia contains valuable metrics for countries around the world. I plan to capture this data and test relationships between these metrics in search of interesting insights.
 
 
 #### How?
