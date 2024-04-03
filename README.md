@@ -14,3 +14,7 @@ I will create a Jupyter Notebook to extract / scrape the data, store the results
 
 #### Why?
 This project will help develop my web scraping and analysis skills, while simultaneously working on a set of thought provoking data relevant to our modern globalized world.
+
+
+#### Questions and Answers:
+Question 1 is located at the end of the World-Cities notebook and questions 2-4 are located at the end of the World-Countries notebook file.
